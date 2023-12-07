@@ -1,3 +1,9 @@
+### 本地配置
+Ubuntu20.04   
+Gazebo-11   
+ROS-noetic   
+
+
 ### 提示
 参考： https://blog.csdn.net/qq_33361420/article/details/118222009
 
