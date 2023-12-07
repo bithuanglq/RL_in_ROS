@@ -5,7 +5,7 @@ ROS-noetic
 
 
 ### 提示
-参考： https://blog.csdn.net/qq_33361420/article/details/118222009
+建库参考： https://blog.csdn.net/qq_33361420/article/details/118222009
 
 1. gym from 0.26.2 to 0.19.0
 
