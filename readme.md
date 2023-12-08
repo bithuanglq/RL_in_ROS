@@ -3,6 +3,16 @@ Ubuntu20.04
 Gazebo-11   
 ROS-noetic   
 
+```
+mkdir ~/catkin_ws
+cd catkin_ws
+mkdir src
+cd src
+git clone git@github.com:bithuanglq/RL_in_ROS.git
+cd ..
+catkin_make
+```
+
 
 ### 提示
 代码参考： https://blog.csdn.net/qq_33361420/article/details/118222009
